@@ -7,4 +7,4 @@ La base de dades utilitzada correspon a l'"Enquesta Bretxa Digital a L'Hospitale
 - https://opendata.l-h.cat/Sector-p-blic/Enquesta-Bretxa-Digital-a-L-Hospitalet-2022/p237-s3x5
 
 El contingut d'aquest repositori és el següent:
-- ##Challenge_DFS_BretxaDigital.ipynb: jupyter notebook amb el codi implementat i comentat utilitzat per a fer l'estudi.
+- Challenge_DFS_BretxaDigital.ipynb: jupyter notebook amb el codi implementat i comentat utilitzat per a fer l'estudi.
