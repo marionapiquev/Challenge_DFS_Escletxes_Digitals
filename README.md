@@ -8,7 +8,7 @@ La base de dades utilitzada correspon a l'"Enquesta Bretxa Digital a L'Hospitale
 
 El contingut d'aquest repositori és el següent:
 - Challenge_DFS_BretxaDigital.ipynb: jupyter notebook amb el codi implementat i comentat utilitzat per a fer l'estudi. Les conclusions extretes de l'anàlisi es poden trobar al final de les següents seccions:
-    - 7.0. Interpretar els perfils
+    - 7. Interpretar els perfils
     - 8.1. Índex de Digitalització Individual o Bretxa Digital
     - 8.2. Índex de Digitalització Territorial
     - 9.1. Distribució dels perfils pels barris
